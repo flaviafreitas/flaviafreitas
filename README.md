@@ -1,13 +1,13 @@
-# Olá, sou a Flávia Freitas 👋🏻
+![Flávia Freitas — Design com alma. Código com propósito.](assets/capa.png)
 
-Sou **engenheira de software full stack e web designer**. Desenho interfaces e desenvolvo os sistemas que fazem elas funcionar. Gosto de acompanhar um projeto do primeiro esboço no Figma até a hora de testar a página no celular.
+Sou a **Flávia**, engenheira de software full stack e web designer. Desenho interfaces no Figma e escrevo o código que dá vida a elas. Gosto de cuidar dos dois lados de um site — de quem navega pelo celular e de quem abre o painel para publicar algo novo.
 
-## Como trabalho
+### Na minha bancada
 
-- **Design de interfaces** · No Figma, organizo o conteúdo, defino a hierarquia visual e penso em como a navegação se adapta a cada tela.
-- **Front-end** · Transformo os layouts em páginas responsivas com HTML, CSS/SCSS, JavaScript e TypeScript. Também desenvolvo interfaces com Vue.js.
-- **Back-end e CMS** · Trabalho com PHP, Node.js e WordPress. No WordPress, desenvolvo temas e componentes pensando também em quem vai editar o conteúdo depois.
+| Área | Ferramentas |
+| :--- | :--- |
+| Design de interfaces | Figma |
+| Front-end | Vue.js · Nuxt · TypeScript · JavaScript · HTML · SCSS |
+| Back-end e conteúdo | PHP · Node.js · WordPress · Sanity |
 
-## Onde me encontrar
-
-[LinkedIn](https://www.linkedin.com/in/fl%C3%A1via-freitas/) · [flaviarobertasf@gmail.com](mailto:flaviarobertasf@gmail.com)
+[Explore meus projetos ↗](https://github.com/flaviafreitas?tab=repositories)　·　[LinkedIn ↗](https://www.linkedin.com/in/fl%C3%A1via-freitas/)　·　[Me escreva ↗](mailto:flaviarobertasf@gmail.com)
